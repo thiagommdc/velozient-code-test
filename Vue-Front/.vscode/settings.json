@@ -1,0 +1,26 @@
+{
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.preferences.quoteStyle": "single",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modifications",
+  "editor.formatOnPaste": true,
+  "editor.fontWeight": "normal",
+  "editor.wordWrapColumn": 300,
+  "breadcrumbs.enabled": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "github.copilot.autocomplete.enable": true,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 10000,
+  "css.validate": false,
+  "javascript.preferences.quoteStyle": "single",
+}
